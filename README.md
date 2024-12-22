@@ -45,17 +45,17 @@ The **Password Manager** is a simple yet robust tool designed to help users secu
 
 3. Install the required dependencies:
     ```bash
-    pip install -r requirements.txt
+    pip3 install -r requirements.txt
     ```
 
 4. Run the application:
     - For CLI:
       ```bash
-      python password_manager.py
+      python3 password_manager.py
       ```
     - For GUI:
       ```bash
-      python password_manager_gui.py
+      python3 password_manager_gui.py
       ```
 
 ## Usage 🚀
