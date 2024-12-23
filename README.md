@@ -1,5 +1,7 @@
 # Password Manager: A Secure Password Manager 🔒🔑
 
+![Password Manager GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnFobHJqMnIweWp0N2cyd3o2Zm51eWtjMHNvd2c1OHgxemMyeXRwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUNd9OAOrmD6UFGoCI/giphy.gif)
+
 ## Project Overview
 
 The **Password Manager** is a simple yet robust tool designed to help users securely store, manage, and retrieve their passwords. This tool provides a secure and user-friendly way to handle passwords without the need to remember every single one. By leveraging encryption techniques, it ensures that sensitive information is stored safely. 🛡️
