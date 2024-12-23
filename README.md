@@ -1,4 +1,4 @@
-# SecurePassManager: A Secure Password Storage Tool 🔒🔑
+# Password Manager: A Secure Password Manager 🔒🔑
 
 ## Project Overview
 
@@ -76,6 +76,10 @@ With the rise of **data breaches** and **password theft**, it’s important to s
 This tool is ideal for anyone looking for a **simple, secure**, and **self-hosted** password management solution that they can trust with their sensitive information. 🔑🛡️
 
 ---
+
+## Vulnerability 😈
+
+The **PasswordManager** is made as a project and not intended for actual use. Since the files are stored locally, they can easily be deleted without needing to enter any credentials and consequently all stored passwords are gone along with other data. So, don't completely rely on it.
 
 ### License 📄
 
